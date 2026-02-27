@@ -1,4 +1,5 @@
 # OctoPredict
+![OctoPredict Dashboard](screenshots/dashboard.png)
 
 A production-ready football match prediction platform powered by XGBoost and dynamic Elo ratings.
 
